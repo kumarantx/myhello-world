@@ -1,3 +1,3 @@
 # myhello-world
 My Hello world
-This is chnage made by me as a learning
+This is change made by me as a learning
